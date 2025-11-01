@@ -10,7 +10,7 @@ Currently exploring end-to-end projects in Power BI, SQL, and Python while conti
 ---
 
 ### 💡 Skills  
-- **Data Analysis:** Power BI, SQL, Excel, Pandas  
+- **Data Analysis:** Power BI, SQL, Excel, Pandas, Numpy
 - **Programming:** Python  
 - **Web Scraping:** Python (BeautifulSoup, Requests)  
 - **Visualization:** Dashboards & storytelling using Power BI  

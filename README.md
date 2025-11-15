@@ -27,7 +27,8 @@ Currently exploring end-to-end projects in Power BI, SQL, and Python while conti
 ![Akshatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatha-as&show_icons=true&theme=default)
 
 ### 📊 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatha-as&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatha-as)
+
 
 ## 🛠️ Most Used Technologies
 
@@ -37,6 +38,17 @@ Currently exploring end-to-end projects in Power BI, SQL, and Python while conti
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-00599C?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4A90E2?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-181717?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
